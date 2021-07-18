@@ -5,6 +5,7 @@
 <ul>
 <li>latest Python<strong>[**must be >3.4 ]</strong><br>
 <li>web_Driver: <strong>chrome</strong>/<strong>firefox </strong>[alredy situated in Driver folder ]
+  <li>keep web driver Updated......
   <ul>
     <li>IF you want download latest version of Driver, please download <br>
       <li>Please make sure that:
