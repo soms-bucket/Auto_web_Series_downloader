@@ -25,7 +25,7 @@ def dwn_epi():
 
 			print(scc.format(i-6))
 			br.get(lnk)
-			sleep(3)
+			sleep(4)
 		except:
 			print("Processing...")
 			
