@@ -1,6 +1,22 @@
 # Auto_web_Series_downloader
 *Save time , run "Auto_web_Series_dwnldr"😎😎
 
+# requirements
+<ul>
+<li>latest Python<strong>[**must be >3.4 ]</strong><br>
+<li>web_Driver: <strong>chrome</strong>/<strong>firefox </strong>[alredy situated in Driver folder ]
+  <ul>
+    <li>IF you want download latest version of Driver, please download <br>
+      <li>Please make sure that:
+      <ul>
+        <li>Name of driver must be <strong>chromedriver.exe</strong> (for chrome) /<strong> geckodriver.exe </strong>(for Firefox)
+        <li>keep drivers in <strong>"Driver"</strong> folder && replace old driver with new one
+        </ul>
+    </ul>
+  
+</ul>
+
+
 ## Installation
 <ul>
 <li>Go to <strong>Auto_web_Series_dwnldr-main</strong> folder<br>
@@ -20,4 +36,5 @@
 <li>Now just type your WEb_series name || hit enter<br>
   <li><Strong>#enjoy😈😈</strong>
 </ul>
+
 <h1 align="center">Linux VEr coming soon....😉</h1>
