@@ -14,6 +14,11 @@
         <li>keep drivers in <strong>"Driver"</strong> folder && replace old driver with new one
         </ul>
     </ul>
+    <li>Web_dRiver source:
+      <ul>
+       <li> <strong>Chrome</strong>: https://chromedriver.chromium.org/downloads
+        <li><strong>Firefox[geckodriver]</strong>: https://chromedriver.chromium.org/downloads
+        </ul>
   
 </ul>
 
