@@ -1,7 +1,7 @@
 # Auto_web_Series_downloader
 *Save time , run "Auto_web_Series_dwnldr"😎😎
 
-# requirements
+# Requirements
 <ul>
 <li>latest Python<strong>[**must be >3.4 ]</strong><br>
 <li>web_Driver: <strong>chrome</strong>/<strong>firefox </strong>[alredy situated in Driver folder ]
