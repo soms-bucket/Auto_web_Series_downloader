@@ -17,7 +17,7 @@
     <li>Web_dRiver source:
       <ul>
        <li> <strong>Chrome</strong>: https://chromedriver.chromium.org/downloads
-        <li><strong>Firefox[geckodriver]</strong>: https://chromedriver.chromium.org/downloads
+        <li><strong>Firefox[geckodriver]</strong>: https://github.com/mozilla/geckodriver/releases
         </ul>
   
 </ul>
