@@ -39,7 +39,7 @@
     <li>follow this <strong>cmd</strong> command:<br>
     <pre>python Auto_dwn_Firefox.pyy</pre>
     </ul>
-<li>Now just type your WEb_series name || hit enter<br>
+<li>Now just type your WEb_series name && hit enter<br>
   <li><Strong>#enjoy😈😈</strong>
 </ul>
 
