@@ -28,7 +28,7 @@
 <li>Go to <strong>Auto_web_Series_dwnldr-main</strong> folder<br>
 <li>open command-prompt(cmd)<strong>[**in same folder location]</strong><br>
   <li>type:<br>
-  <pre>python requirements.txt</pre>
+  <pre>pip install -r requirements.txt</pre>
   <li>IF you have <strong>Chrome</strong> installed in your system<br>
   <ul>
     <li>follow this <strong>cmd</strong> command:<br>
